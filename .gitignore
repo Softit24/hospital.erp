@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+instance/
+.secret_key
+app_before_*.py
+app_backup.py
+app.py.billing-backup
